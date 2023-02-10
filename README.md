@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @iamnair15
-- 👀 I’m interested in ...CODING
-- 🌱 I’m currently learning ...PYTHON
+- 👀 I’m interested in real life problem solving 
+- 🌱 I’m currently learning Data-science,AI-ML and Web Dev
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...ON INSTA _IAMNAIR
+- 📫 How to reach me ...on Linked In https://www.linkedin.com/in/ashwin-nair-a06555235
 
 <!---
 iamnair15/iamnair15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
