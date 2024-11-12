@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @iamnair15
 - 👀 I’m interested in real life problem solving 
 - 🌱 I’m currently learning Data-science,AI-ML and Web Dev
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...on Linked In https://www.linkedin.com/in/ashwin-nair-a06555235
 
 <!---
